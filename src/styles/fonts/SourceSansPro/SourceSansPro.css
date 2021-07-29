@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'SourceSansPro-Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./SourceSansPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro-SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./SourceSansPro-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./SourceSansPro-Regular.ttf') format('truetype');
+}
