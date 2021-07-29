@@ -6,5 +6,5 @@ import { TextLink } from './TextLink';
 
 storiesOf('Elements|Text Link', module)
   .addDecorator(withKnobs)
-  .add('default', (): JSX.Element => <TextLink>{text('Text', 'text to be used. (not a link yet)')}</TextLink>)
-  .add('small', (): JSX.Element => <TextLink>{text('Text', 'text to be used. (not a link yet')}</TextLink>);
+  .add('default', (): JSX.Element => <TextLink>{text('Text', 'text to be used.')}</TextLink>)
+  .add('small', (): JSX.Element => <TextLink>{text('Text', 'text to be used.')}</TextLink>);
